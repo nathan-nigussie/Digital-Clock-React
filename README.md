@@ -1,4 +1,4 @@
-# React + Vite
+# Digital Clock
 
 - A React-built digital clock. It has a simple and sleek interface that displays the current time in real time. Users can easily see the hours, minutes, and seconds update as the clock ticks.
 
