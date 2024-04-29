@@ -6,5 +6,5 @@
 
 Link to the Digital Clock
 - https://digital-clock-react.onrender.com/
-- 
+  
 ![image](https://github.com/nathan-nigussie/Digital-Clock-React/assets/91279474/e527a038-8b95-43ed-b655-a4b95163e811)
